@@ -5,3 +5,7 @@ then i connect all teh components to the raspberry pi pico and now i am done wit
 image - <img width="757" height="524" alt="image" src="https://github.com/user-attachments/assets/7207e474-0450-4ec0-9386-b77768e24c02" />
 lapse- https://lapse.hackclub.com/timelapse/004TWzJI7v97
 time taken - 1 hour 7 min 
+## journal 2 
+after the completion the schematics i have to assign the footprints so that i can move towards the pcb designing . i used 1n4148 for diodes and sw_switch cherry mx for switches . and i will move towards the pcb editing . 
+lapse - https://lapse.hackclub.com/timelapse/JN0-KiQpeB3l
+time taken - 16 min 
