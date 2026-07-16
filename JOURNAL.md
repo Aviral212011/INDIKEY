@@ -19,5 +19,9 @@ i started placing the diodes in the similar way as i placed the switches and thi
 https://lapse.hackclub.com/timelapse/63lTx4jkyGSc
 ## journal 5 
 as after making everything clear i made some changes in the footprint as i want holes for some keys in the pcb to install the supports of keycaps which takes a little time then i started the wiring . i need clean and proper wiring so i started wiring each and every switch with their respective diodes with the top cu traces and then i wired each row and each coloum together whd then each row and coloum to the raspberry pi pico which is quite time consuming but it makes my pcb looks super clean and neat . 
-*time taken - 41 min + 17 min = 58min
-*lapse - https://lapse.hackclub.com/timelapse/BjP1V1qguGrv and https://lapse.hackclub.com/timelapse/-_NY-Y2sOJFK
+* time taken - 41 min + 17 min = 58min
+* lapse - https://lapse.hackclub.com/timelapse/BjP1V1qguGrv and https://lapse.hackclub.com/timelapse/-_NY-Y2sOJFK
+## journal 6 
+you know that my keyboard is based on classical and royal indian theme so its pcb must have some indian asthetics so i decided to add some . i download some borders from the internet then i added them on my pcb and then i add some royal elephant which make it look more classical and i also add a flower or i dont know the name of that thing in the middle with the front silk skin . i also added our horizons logo on its back and now our pcb is ready and now i have to movetowards the case . 
+* time taken - 34 min
+* lapse - https://lapse.hackclub.com/timelapse/P8h6EznExUti
