@@ -25,3 +25,7 @@ as after making everything clear i made some changes in the footprint as i want 
 you know that my keyboard is based on classical and royal indian theme so its pcb must have some indian asthetics so i decided to add some . i download some borders from the internet then i added them on my pcb and then i add some royal elephant which make it look more classical and i also add a flower or i dont know the name of that thing in the middle with the front silk skin . i also added our horizons logo on its back and now our pcb is ready and now i have to movetowards the case . 
 * time taken - 34 min
 * lapse - https://lapse.hackclub.com/timelapse/P8h6EznExUti
+## journal 7 
+i created a new document and in it i created a new sketch on the top plane where i made a rectangle. then i taked the dimensions of my pcb and give dimension to the rectangle acccordding to it then i made another rectangle with my custom design and i leaved some space for the ports and all . i am also adding a hand rest in my design then i extrude upeverything and i want a slant type design so i made it accordingly . i used fillet for some place .then i made a stand at the back which make typing easy . then i adddd a lotus design on its side but it was not appriopriate there so i decided to add a more royal design . 
+* time taken - 38 min + 35 min = 73 min 
+* lapse - https://lapse.hackclub.com/timelapse/D5YR-poeDhwq and https://lapse.hackclub.com/timelapse/V9DzBr4ZxXKX
