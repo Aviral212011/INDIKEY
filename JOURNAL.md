@@ -29,3 +29,18 @@ you know that my keyboard is based on classical and royal indian theme so its pc
 i created a new document and in it i created a new sketch on the top plane where i made a rectangle. then i taked the dimensions of my pcb and give dimension to the rectangle acccordding to it then i made another rectangle with my custom design and i leaved some space for the ports and all . i am also adding a hand rest in my design then i extrude upeverything and i want a slant type design so i made it accordingly . i used fillet for some place .then i made a stand at the back which make typing easy . then i adddd a lotus design on its side but it was not appriopriate there so i decided to add a more royal design . 
 * time taken - 38 min + 35 min = 73 min 
 * lapse - https://lapse.hackclub.com/timelapse/D5YR-poeDhwq and https://lapse.hackclub.com/timelapse/V9DzBr4ZxXKX
+## journal 8
+i imported the image of the design i want to make and then i start making its sketch on the side of my keyboard using the spline tool and then i completed the design in approx in less than a hour and then i used mirror tool to complete it . then i copied
+the skecth and pasted it on the other side . then i adjusted it and extrude it and my design is completed . 
+* time taken - 36 min and 33 min . total 69 min
+* lapse- https://lapse.hackclub.com/timelapse/PMXXgbQXjdKW and https://lapse.hackclub.com/timelapse/qxWxJtiLlzEp
+## journal 9 
+i added a text of indikey on the back of the keyboard which ios lookin good . then i made four holes on the with the diameter of 3 mm and the base of my case's bottom is ready .
+* time taken - 12 min and 15 min = total time 27 min .
+* link to lapse - https://lapse.hackclub.com/timelapse/nJ9KcPhUHNZi and https://lapse.hackclub.com/timelapse/YrVMJhO6Mi-h
+## journal 10 
+i started making the top of my case . i made a new part studio in which i made a new skecth with the same dimension which i used in the bottom of the case .  then i downloaded the .json file of my keyboard layout and generate its plate using a tool . then i imported its dfx in the sketch and adjusted it according to the pcb . then i tried to make a design on its top like a diya or something i dont know . 
+* time taken = 10 min + 19 min = total 29 min
+* lapse - https://lapse.hackclub.com/timelapse/FjVhXX_hRfal and https://lapse.hackclub.com/timelapse/VApCLMvUe__T
+## journal 11 
+i made the di9ya design on both sides of all the keys but that was not workin at all . i spent over 1 hour on it but it is not looking good  
