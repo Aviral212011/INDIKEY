@@ -43,4 +43,6 @@ i started making the top of my case . i made a new part studio in which i made a
 * time taken = 10 min + 19 min = total 29 min
 * lapse - https://lapse.hackclub.com/timelapse/FjVhXX_hRfal and https://lapse.hackclub.com/timelapse/VApCLMvUe__T
 ## journal 11 
-i made the di9ya design on both sides of all the keys but that was not workin at all . i spent over 1 hour on it but it is not looking good  
+i made the diya design on both sides of all the keys but that was not workin at all . i spent over 1 hour on it but it is not looking good . so i deleted that design and started a new design on the same plane . which is really good . 
+* time taken - 27min + 21 min = total time 48 min
+* lapse - https://lapse.hackclub.com/timelapse/YA865uKP5-W8 and https://lapse.hackclub.com/timelapse/OSp3hRSMFXhj 
