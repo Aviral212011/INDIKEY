@@ -28,10 +28,16 @@ A custom made 65 % keyboard made with classical indian asthetics . it is made on
 <img width="1320" height="702" alt="Screenshot 2026-07-25 135639" src="https://github.com/user-attachments/assets/fd4f030a-d5fa-4b72-bbf2-53a97362353f" />
 <img width="1424" height="658" alt="Screenshot 2026-07-25 135743" src="https://github.com/user-attachments/assets/f81d206c-cc3c-41e1-a85b-73b1eefd96c5" />
 *  pcb 3d view
+*  
   ---
+  
 # link to onshape (case) -
 https://cad.onshape.com/documents/4f19f8146dbdff3fb7b6736f/w/b2633a3228cab1fe44c80062/e/a95599da6178e9e3f19ca7d5?renderMode=0&uiState=6a64f4249e1a48404971526d
 
-* A special thanks to Anay jain who helped me a lot in this .
 ---
+
+* A special thanks to Anay jain who helped me a lot in this .
+  
+---
+
 Designed and developed by **Aviral Sen** 
