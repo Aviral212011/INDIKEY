@@ -37,6 +37,31 @@ A custom made 65 % keyboard made with classical indian asthetics . it is made on
 https://cad.onshape.com/documents/4f19f8146dbdff3fb7b6736f/w/b2633a3228cab1fe44c80062/e/a95599da6178e9e3f19ca7d5?renderMode=0&uiState=6a64f4249e1a48404971526d
 
 ---
+##BOM
+# 📦 Bill of Materials (BOM) — INDIKEY
+
+| Name | Qty | Final Price - INR (USD) | Link |
+| :--- | :---: | :---: | :---: |
+| MX Switches | 83 | *16299[$170]* | [here](https://amzn.in/d/06A2sHGW) |
+| Keycaps Set (Standard Layout) | 1 | *2000[$21]* | [here](https://amzn.in/d/00yRvEXN) |
+| Stabilizers (Screw-In / Plate-Mounted) | 1 | *4000[$40]* | [here](https://amzn.in/d/065cqTSa) |
+| Diode 1N4148 Through-Hole | 84 | *200[$2]* | [here](https://amzn.in/d/05sHaeOd) |
+| EC11 Rotary Encoder | 1 | *200[$2]* | [here](https://amzn.in/d/0c7ub54C) |
+| Raspberry Pi Pico | 1 | *1000[$10]* | [here](https://amzn.in/d/02kN8avH) |
+| PCB (Custom pcb - INDIKEY) | 5 | *6047[$63.09]* | — |
+| 3D Printed Case (Top & Base) | 1 | *--* | Print legion |
+| M3 x 20mm Bolt / Screws | 4 | *179[$1.87]* | [here](https://amzn.in/d/04auqHwD) |
+| M3 Heatset Inserts / Nuts | 4 | *100[$1]* | [here](https://amzn.in/d/0b8RiXdv) |
+
+---
+
+### Total Pricing
+
+The total price comes out to be ** INR ([Fill Total USD])**.
+
+> *Note: The pricing might slightly vary due to flash sales and currency exchange rates.*
+
+---
 
 * A special thanks to Anay jain who helped me a lot in this .
   
