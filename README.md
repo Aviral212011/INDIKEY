@@ -57,7 +57,7 @@ https://cad.onshape.com/documents/4f19f8146dbdff3fb7b6736f/w/b2633a3228cab1fe44c
 
 ### Total Pricing
 
-The total price comes out to be ** INR ([Fill Total USD])**.
+The total price comes out to be **29,789 INR ($310.79)**.
 
 > *Note: The pricing might slightly vary due to flash sales and currency exchange rates.*
 
