@@ -45,4 +45,15 @@ i started making the top of my case . i made a new part studio in which i made a
 ## journal 11 
 i made the diya design on both sides of all the keys but that was not workin at all . i spent over 1 hour on it but it is not looking good . so i deleted that design and started a new design on the same plane . which is really good . 
 * time taken - 27min + 21 min = total time 48 min
-* lapse - https://lapse.hackclub.com/timelapse/YA865uKP5-W8 and https://lapse.hackclub.com/timelapse/OSp3hRSMFXhj 
+* lapse - https://lapse.hackclub.com/timelapse/YA865uKP5-W8 and https://lapse.hackclub.com/timelapse/OSp3hRSMFXhj
+## journal 12 
+a the diya type design i tried to made was not at all pratical there so i decided to just add some text now . i added my credits on it and i decided to add a text of satymav jayate which is a slogan or a symbol of our great India 
+then . i downloaded a good text of it and start making the skecth there with the help of spline tool . then i extrude it and it was looking good . 
+* time taken - 1 hour
+* lapse - https://lapse.hackclub.com/timelapse/29hahLGkl49G
+## journal 13
+then i think to add a royal type border because it is looking very simple . so i imported a the reference of that border in the partstudio and started making it with the spline tool on all the four corners and after that it was looking more royal and premium . in between i have to made some changes beacuse of some issue but i made it done . then i made many holes at the back of bottom for the proper ventilation ny drawing each hole . and then i made the hole for encoder a slighty bigger so that it can fit properly . 
+* time taken- 34 min + 30 min
+* lapse - https://lapse.hackclub.com/timelapse/33SQ0r82Xr5k and https://lapse.hackclub.com/timelapse/aXKsLh9Tj6xg
+## journal 14 
+
