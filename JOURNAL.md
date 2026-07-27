@@ -63,5 +63,7 @@ now every thing is done but my keyboard handrest is looking so i decided to add 
   ---
   **the final design**
 <img width="1173" height="703" alt="Screenshot 2026-07-25 134537" src="https://github.com/user-attachments/assets/c3242bb1-88ec-4920-bbcb-839be326125b" />
+
 --- 
-**Total time taken So Far = 18 hours** 
+
+**Total time taken So Far = 18 hours**
